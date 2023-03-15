@@ -1,1 +1,2 @@
-Data for GPAD8-2R macropad
+# GKB-M16
+Data for GPAD8-2R Macro Pad
